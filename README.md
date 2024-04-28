@@ -27,11 +27,11 @@ Du skall välja ut ytterligare 2 st React Hooks, alt. 2 st externa bibliotek (el
 Figma-skissen ger inte en fullständig överblick över hur projektet bör byggas. [Se tillhörande introduktionsfilm]() där det förklaras vilka tolkningar ni kan få lov att göra.
 
 ## Resurser
-Figma-skissen [hittar ni här](https://www.figma.com/file/vcgWPPy2q44oZZ2eORL1wB/Where-its-light?node-id=0%3A1)
+- Figma-skissen [hittar ni här](https://www.figma.com/file/vcgWPPy2q44oZZ2eORL1wB/Where-its-light?node-id=0%3A1)
 
-Ett av typsnitten som används i skissen, Sansita One, [hitter ni här](https://www.1001fonts.com/sansita-one-font.html)
+- Ett av typsnitten som används i skissen, Sansita One, [hittar ni här](https://www.1001fonts.com/sansita-one-font.html)
 
-Som vanligt har ni tillgång till datan i mitt API genom nedanstående anrop:
+- Som vanligt har ni tillgång till datan i mitt API genom nedanstående anrop:
 
 ```
 GET https://santosnr6.github.io/Data/events.json
