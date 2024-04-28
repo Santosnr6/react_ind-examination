@@ -24,7 +24,7 @@ Du skall välja ut ytterligare 2 st React Hooks, alt. 2 st externa bibliotek (el
 - När en beställing gjorts skall en biljett skapas där ni genererar fram ett biljettID på 5 tecken (endast STORA BOKSTÄVER och siffror tillåtna), en Sektion och en sittplats. Vid köp av flera biljetter till ett och samma evenemang skall Sektionen vara samma på alla biljetter, och sittplatserna skall vara bredvid varandra.
 
 ## Övrig info
-Figma-skissen ger inte en fullständig överblick över hur projektet bör byggas. [Se tillhörande introduktionsfilm]() där det förklaras vilka tolkningar ni kan få lov att göra.
+Figma-skissen ger inte en fullständig överblick över hur projektet bör byggas. [Se tillhörande introduktionsfilm](https://vimeo.com/manage/videos/940396692/46ea16e4b9) där det förklaras vilka tolkningar ni kan få lov att göra.
 
 ## Resurser
 - Figma-skissen [hittar ni här](https://www.figma.com/file/vcgWPPy2q44oZZ2eORL1wB/Where-its-light?node-id=0%3A1)
